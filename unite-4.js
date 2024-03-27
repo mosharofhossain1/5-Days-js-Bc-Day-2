@@ -1,4 +1,4 @@
-// Unite Foure:-
+// Unite Foure:- Date Methods
 
 console.log('Today Exploring JS Date Object');
 

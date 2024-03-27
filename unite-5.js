@@ -110,5 +110,25 @@ const trimEnd = trims.trimEnd();
 console.log(trimEnd);
 
 
+// Boolean and truthy false value 
+
+// False Value Explain 
+let  boll = Boolean(false);
+    boll = Boolean();
+    boll = Boolean(undefined);
+    boll = Boolean(null);
+    boll = Boolean(0);
+    boll = Boolean(NaN);
+console.log(boll);
+
+// Truthy Value Explain 
+
+let truthyValue = Boolean(true);
+    truthyValue = Boolean([])
+    truthyValue = Boolean({})
+    truthyValue = Boolean(230)
+    truthyValue = Boolean('MOsharof Hossain')
+    console.log(truthyValue);
+    
 
 
